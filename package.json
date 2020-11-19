@@ -1,0 +1,14 @@
+{
+  "name": "geometryutils-polyfill",
+  "version": "1.0.0",
+  "description": "A polyfill for Geometry Utils https://drafts.csswg.org/cssom-view/#the-geometryutils-interface",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/alijaya/geometryutils-polyfill",
+    "type": "git"
+  },
+  "bugs": "https://github.com/alijaya/geometryutils-polyfill/issues",
+  "author": "Ali Jaya Meilio <alijayameilio@gmail.com>",
+  "license": "MIT",
+  "keywords": ["polyfill", "geometry-utils", "js"]
+}
